@@ -48,7 +48,8 @@ export default function Experience() {
             <div className="mb-4">
                 <h3 className="font-medium">Brigham Young University</h3>
                 <p className="text-sm text-muted-foreground"><span className="italic">Expected Graduation:</span> April 2026</p>
-                <p className="text-sm">Minor in Mathematics</p>
+                <p className="text-sm">Computer Science <span className="italic">(BS)</span></p>
+                <p className="text-sm">Mathematics <span className="italic">(Minor)</span></p>
             </div>
             <ul className="space-y-4">
                 {experience.map((item, i) => (
