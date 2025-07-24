@@ -3,6 +3,7 @@ import { ModeToggle } from "@/components/theme-switcher";
 import Projects from "./Projects";
 import Experience from "./Experience";
 import Contact from "./Contact";
+import ScrollSidebar from "./ScrollSidebar";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
         <main className="min-h-screen flex flex-col items-center">
           <div className="flex-1 flex flex-col gap-20 max-w-5xl p-5">
             <main className="flex-1 flex flex-col">
+              <ScrollSidebar/>
               <section id='me' className="min-h-screen flex items-center justify-center px-4">
                 <AnimatedSection>
                   <h1 className="text-4xl font-bold">Hi, I&apos;m Ian 👋</h1>
