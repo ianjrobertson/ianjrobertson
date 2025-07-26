@@ -13,22 +13,22 @@ export default function Home() {
           <div className="flex-1 flex flex-col gap-20 max-w-5xl p-5">
             <main className="flex-1 flex flex-col">
               <ScrollSidebar/>
-              <section id='me' className="min-h-screen flex items-center justify-center px-4">
+              <section id='me' className="min-h-screen flex items-center justify-center px-8">
                 <AnimatedSection>
                   <h1 className="text-4xl font-bold">Hi, I&apos;m Ian 👋</h1>
                   <p className="mt-2 text-muted-foreground">Software Engineer | React | TypeScript</p>
                 </AnimatedSection>
               </section>
 
-              <section id="experience" className="min-h-screen flex items-center px-4">
+              <section id="experience" className="min-h-screen flex items-center px-8">
                 <Experience />
               </section>
 
-              <section id="projects" className="min-h-screen flex items-center px-4">
+              <section id="projects" className="min-h-screen flex items-center px-8">
                 <Projects />
               </section>
 
-              <section id="contact" className="min-h-screen flex items-center justify-center px-4">
+              <section id="contact" className="min-h-screen flex items-center justify-center px-8">
                 <Contact />
               </section>
             </main>
