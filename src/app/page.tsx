@@ -16,7 +16,7 @@ export default function Home() {
               <section id='me' className="min-h-screen flex items-center justify-center px-4">
                 <AnimatedSection>
                   <h1 className="text-4xl font-bold">Hi, I&apos;m Ian 👋</h1>
-                  <p className="mt-2 text-muted-foreground">Full-stack developer | React | TypeScript</p>
+                  <p className="mt-2 text-muted-foreground">Software Engineer | React | TypeScript</p>
                 </AnimatedSection>
               </section>
 
