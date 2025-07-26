@@ -44,13 +44,7 @@ export default function Experience() {
 
     return (
         <AnimatedSection delay={0.4}>
-            <h2 className="text-2xl font-semibold mb-4">Experience & Education</h2>
-            <div className="mb-4">
-                <h3 className="font-medium">Brigham Young University</h3>
-                <p className="text-sm text-muted-foreground"><span className="italic">Expected Graduation:</span> April 2026</p>
-                <p className="text-sm">Computer Science <span className="italic">(BS)</span></p>
-                <p className="text-sm">Mathematics <span className="italic">(Minor)</span></p>
-            </div>
+            <h2 className="text-2xl font-semibold mb-4">Experience</h2>
             <ul className="space-y-4">
                 {experience.map((item, i) => (
                     <li key={i}>
@@ -60,6 +54,12 @@ export default function Experience() {
                     </li>
                 ))}
             </ul>
+            <h2 className="text-2xl font-semibold my-4">Education</h2>
+            <div className="mb-4">
+                <h3 className="font-medium">Brigham Young University</h3>
+                <p className="text-sm text-muted-foreground"><span className="italic">Expected Graduation:</span> April 2026</p>
+                <p className="text-sm">Computer Science <span className="italic">(BS)</span> / Mathematics <span className="italic">(Minor)</span></p>
+            </div>
             <Button className="mt-6" asChild>
                 <a href="https://linkedin.com/in/ianjosephrobertson" target="_blank">View my LinkedIn</a>
             </Button>
