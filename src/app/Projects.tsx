@@ -7,7 +7,8 @@ import { useEffect, useState } from "react";
 interface Project {
   title: string,
   description: string,
-  github: string
+  github: string,
+  link: string
 }
 
 export default function Projects() {
@@ -18,17 +19,20 @@ export default function Projects() {
         {
             title: "Reading Tracker",
             description: "Next.js app for tracking reading hours, uses supabase backend",
-            github: 'https://github.com/ianjrobertson/reading-tracker'
+            github: 'https://github.com/ianjrobertson/reading-tracker',
+            link: 'https://read.ianjrobertson.click/'
         },
         {
             title: "Hangspot",
-            description: "Hammock spot sharing app built with react.js MERN stack",
-            github: 'https://github.com/ianjrobertson/startup'
+            description: "Hammock spot sharing app built with react.js MERN stack and Google Maps API",
+            github: 'https://github.com/ianjrobertson/startup',
+            link: 'https://startup.ianjrobertson.click/'
         },
         {
             title: "RepRoute",
             description: "D2D sales efficency app built for Sandbox hackathon. Resulted in acceptance to Sandbox entrepeneurship program",
-            github: 'https://github.com/ianjrobertson/hackathon'
+            github: 'https://github.com/ianjrobertson/hackathon',
+            link: 'https://reproute.ianjrobertson.click/'
         },
         ]
 
@@ -46,7 +50,9 @@ export default function Projects() {
                 {projects.map((proj, i) => (
                 <Card key={i}>
                     <CardHeader>
-                    <h3 className="text-lg font-bold">{proj.title}</h3>
+                        <Button variant='link' asChild className="justify-start!">
+                            <a href={proj.link}><h3 className="text-lg font-bold">{proj.title}</h3></a>
+                        </Button>
                     </CardHeader>
                     <CardContent>{proj.description}</CardContent>
                     <CardFooter>
