@@ -16,6 +16,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Ian Robertson",
   description: "Portfolio and resume site",
+  icons: {
+    icon: [
+      { url: '/favicon.png' }, // or .ico
+    ],
+  }
 };
 
 export default function RootLayout({

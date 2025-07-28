@@ -4,6 +4,7 @@ import Projects from "./Projects";
 import Experience from "./Experience";
 import Contact from "./Contact";
 import ScrollSidebar from "./ScrollSidebar";
+//import Image from "next/image";
 
 export default function Home() {
   return (
@@ -15,6 +16,12 @@ export default function Home() {
               <ScrollSidebar/>
               <section id='me' className="min-h-screen flex items-center justify-center px-8">
                 <AnimatedSection>
+                  {/* <Image
+                    src='/headshot.png'
+                    height='300'
+                    width='300'
+                    alt='Ian Robertson Profile'
+                  /> */}
                   <h1 className="text-4xl font-bold">Hi, I&apos;m Ian 👋</h1>
                   <p className="mt-2 text-muted-foreground">Software Engineer | React | TypeScript</p>
                 </AnimatedSection>
