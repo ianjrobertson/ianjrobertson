@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   description: "Portfolio and resume site",
   icons: {
     icon: [
-      { url: '/favicon.png' }, // or .ico
+      { url: '/icon.png' }, // or .ico
     ],
   }
 };
