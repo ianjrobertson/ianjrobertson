@@ -4,8 +4,7 @@
 
 ### 🔭 Current Interests
 - Real-Time Communication (RTC) & WebSockets  
-- WebAssembly  
-- High-Performance Web Applications  
+- WebAssembly
 - Full-Stack Software Engineering
 
 ### 🚀 Projects & Portfolio
