@@ -1,6 +1,6 @@
 # Hey there! I'm Ian 👋  
 
-🎓 I'm a Computer Science student at **Brigham Young University (BYU)** with a passion for building performant and engaging web applications.
+🎓 I'm a Computer Science student at **Brigham Young University (BYU)**
 
 ### 🔭 Current Interests
 - Real-Time Communication (RTC) & WebSockets  
