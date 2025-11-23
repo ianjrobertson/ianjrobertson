@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 interface ExperienceItem {
   role: string,
   company: string,
-  description: string,
+  description?: string,
   duration: string,
 }
 
@@ -16,21 +16,23 @@ export default function Experience() {
     const getExperience = () => {
         const tempExperience: ExperienceItem[] = [
           {
-            role: 'Full-stack Software Developer',
+            role: 'Incoming SWE',
+            company: 'Mastercard',
+            duration: 'August 2026',
+          },
+          {
+            role: 'Full-Stack Engineer',
             company: 'Blazzi',
-            description: 'Built Apps in Typescript + ReactNative',
             duration: 'July 2025 - Present',
           },
           {
             role: 'Web Developer',
             company: 'BYU Center for Teaching and Learning',
-            description: 'Built Apps using vue.js + Laravel + Livewire',
-            duration: 'August 2024 - Present',
+            duration: 'August 2024 - August 2025',
           },
           {
             role: 'Quality Assurance Analyst',
             company: 'BYU Center for Teaching and Learning',
-            description: 'Tested Apps to ensure quality',
             duration: 'May 2024 - August 2024',
           },
         ]
@@ -60,9 +62,14 @@ export default function Experience() {
                 <p className="text-sm text-muted-foreground"><span className="italic">Expected Graduation:</span> April 2026</p>
                 <p className="text-sm">Computer Science <span className="italic">(BS)</span> / Mathematics <span className="italic">(Minor)</span></p>
             </div>
-            <Button className="mt-6" asChild>
-                <a href="https://linkedin.com/in/ianjosephrobertson" target="_blank">View my LinkedIn</a>
-            </Button>
+            <div className="flex flex-col sm:flex-row gap-4">
+                <Button asChild>
+                    <a href="https://linkedin.com/in/ianjosephrobertson" target="_blank">LinkedIn</a>
+                </Button>
+                <Button variant="outline" asChild>
+                    <a href="/Public-Resume-Ian-Robertson-2025.pdf" download>Download Resume</a>
+                </Button>
+            </div>
         </AnimatedSection>
     )
 }
