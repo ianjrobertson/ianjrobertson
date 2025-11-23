@@ -9,9 +9,9 @@ export default function Contact() {
 
     const handleCopy = async () => {
         try {
-            await navigator.clipboard.writeText('ianjr@byu.edu');
+            await navigator.clipboard.writeText('ianjosephrobertson@gmail.com');
             setCopied(true);
-            setTimeout(() => setCopied(false), 1500);
+            setTimeout(() => setCopied(false), 500);
         } catch (err) {
             console.error('Failed to copy: ', err);
         }
@@ -23,13 +23,13 @@ export default function Contact() {
             <p className="mb-4 text-muted-foreground">Interested in working together? Let&apos;s chat.</p>
             <div className="flex flex-col sm:flex-row gap-4">
                 <Button asChild onClick={handleCopy} className="cursor-pointer">
-                    {copied ? <p>Copied!</p> : <p>ianjr@byu.edu</p>}
+                    {copied ? <p>Copied!</p> : <p>Email</p>}
                 </Button>
                 <Button asChild>
                     <a href="https://linkedin.com/in/ianjosephrobertson" target="_blank">LinkedIn</a>
                 </Button>
                 <Button variant="outline" asChild>
-                    <a href="/Public-Robertson-Ian-Resume-7-25.pdf" download>Download Resume</a>
+                    <a href="/Public-Resume-Ian-Robertson-2025.pdf" download>Download Resume</a>
                 </Button>
             </div>
         </AnimatedSection>
