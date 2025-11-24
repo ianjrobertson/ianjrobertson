@@ -55,7 +55,7 @@ export default function Projects() {
             <CardHeader>
               <Button variant="link" asChild className="justify-start!">
                 <a href={proj.link}>
-                  <h3 className="text-lg font-bold">{proj.title}</h3>
+                  <h3 className="text-lg font-bold text-wrap">{proj.title}</h3>
                 </a>
               </Button>
             </CardHeader>
