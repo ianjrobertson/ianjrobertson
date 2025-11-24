@@ -52,6 +52,10 @@ export default function Home() {
                 Ian Robertson
               </a>
             </p>
+            <p>
+              Home
+              <a>Home</a>
+            </p>
             <ModeToggle></ModeToggle>
           </footer>
         </main>
