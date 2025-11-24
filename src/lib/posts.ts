@@ -23,7 +23,7 @@ export interface Post {
 
 export function getAllPosts() {
     const fileNames = fs.readdirSync(postDirectory);
-    const allPostsData = fileNames.map((fileName) => {
+    const allPostsData = fileNames.filter(fileName => fileName.includes('.md')).map((fileName) => {
         const slug = fileName.replace(/\.md$/, '');
         const fullPath = path.join(postDirectory, fileName);
         const fileContents = fs.readFileSync(fullPath, 'utf8');

@@ -1,11 +1,11 @@
 ---
-title: "My First Post"
-date: "2025-11-23"
-excerpt: "A brief description..."
+title: "Welcome to my Blog"
+date: "A brief Introduction"
+excerpt: ""
 ---
 
 ## Hello!
 
-This is my first post! 
+Welcome to my blog, here you will find posts about my interests. 
 
-**Thanks!** For reading this post!
+Views expressed are my own. 
