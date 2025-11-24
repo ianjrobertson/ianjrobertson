@@ -1,8 +1,11 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
-import { remark } from 'remark';
-import html from 'remark-html';
+import { unified } from 'unified';
+import remarkParse from 'remark-parse';
+import remarkRehype from 'remark-rehype';
+import rehypeHighlight from 'rehype-highlight';
+import rehypeStringify from 'rehype-stringify';
 
 const postDirectory = path.join(process.cwd(), 'posts');
 
@@ -39,7 +42,12 @@ export async function getPost(slug: string): Promise<Post> {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const matterResult = matter(fileContents);
     const postMatter = matterResult.data as PostMatter;
-    const processedContent = await remark().use(html).process(matterResult.content);
+    const processedContent = await unified()
+        .use(remarkParse)
+        .use(remarkRehype)
+        .use(rehypeHighlight)
+        .use(rehypeStringify)
+        .process(matterResult.content);
 
     return {slug, postMatter, content: processedContent.toString() }
 }

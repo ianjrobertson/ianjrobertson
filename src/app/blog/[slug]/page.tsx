@@ -1,6 +1,7 @@
 import { getPost } from "@/lib/posts";
 import Link from "next/link";
 import PageAnimation from "@/components/PageAnimation";
+import 'highlight.js/styles/night-owl.css';
 
 export default async function Page({
   params,
