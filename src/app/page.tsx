@@ -1,10 +1,10 @@
 import AnimatedSection from "@/components/AnimatedSection";
-import { ModeToggle } from "@/components/theme-switcher";
 import Projects from "./Projects";
 import Experience from "./Experience";
 import Contact from "./Contact";
 import ScrollSidebar from "./ScrollSidebar";
 import Image from "next/image";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -40,20 +40,7 @@ export default function Home() {
               </section>
             </main>
           </div>
-          <footer className="w-full flex items-center justify-center mx-auto text-center text-xs gap-8 py-3">
-            <p>
-              Created by{" "}
-              <a
-                href="https://github.com/ianjrobertson"
-                target="_blank"
-                className="font-bold hover:underline"
-                rel="noreferrer"
-              >
-                Ian Robertson
-              </a>
-            </p>
-            <ModeToggle></ModeToggle>
-          </footer>
+          <Footer/>
         </main>
       </div>
     </div>
