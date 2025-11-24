@@ -1,6 +1,6 @@
 import { getPost } from "@/lib/posts";
 import Link from "next/link";
-import AnimatedSection from "@/components/AnimatedSection";
+import PageAnimation from "@/components/PageAnimation";
 
 export default async function Page({
   params,
@@ -15,7 +15,7 @@ export default async function Page({
     <div className="flex-1 flex flex-col items-center">
       <div className="flex-1 flex flex-col max-w-5xl w-full p-5">
         <main className="flex-1 flex flex-col px-8 py-20">
-          <AnimatedSection>
+          <PageAnimation key={slug}>
             <Link
               href="/blog"
               className="text-sm text-muted-foreground hover:text-foreground transition-colors mb-8 inline-block"
@@ -36,7 +36,7 @@ export default async function Page({
                 dangerouslySetInnerHTML={{ __html: post.content }}
               />
             </article>
-          </AnimatedSection>
+          </PageAnimation>
         </main>
       </div>
     </div>
