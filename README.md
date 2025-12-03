@@ -1,6 +1,8 @@
 # Hey there! I'm Ian 👋  
 
-🎓 I'm a Computer Science student at **Brigham Young University (BYU)** graduating Spring 2026. Incoming SWE at Mastercard. 
+🎓 I'm a Computer Science student at **Brigham Young University (BYU)** graduating Spring 2026. 
+
+Incoming SWE at Mastercard. 
 
 ### 🔭 Current Interests
 - Real-Time Communication (RTC) & WebSockets  
