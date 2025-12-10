@@ -9,10 +9,11 @@ This semester I have been taking a class called Writings of Isaiah at BYU. For t
 
 For this project, I decided to take inspiration from the prophecy of the three sons in Isaiah 7. 
 
-> Isaiah 7:14-16
->
+#### Isaiah 7:14-16
 > 14 Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
+> 
 > 15 Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
+>
 > 16 For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
 
 
@@ -46,7 +47,6 @@ This is where things got interesting. I used a recipe to make the honey with dat
 
 Once the mixture had gotten thick, I again got cheese cloth ready and poured the sauce through. (Who knew Isaiah used so much cheese cloth!). This time I squeezed the sack to get all of the syrup out. The dates were very hot at this point, so I had to use some oven mitts to handle it. After squeezing out all of the liquid I could, I put the liquid back onto the pan and let it simmer for another 15 minutes until it became thick like unto molasses. 
 
-![Date Honey](/isaiah-images/IMG_3062.HEIC.jpg)
 ![Date Honey](/isaiah-images/IMG_3063.HEIC.jpg)
 ![Date Honey](/isaiah-images/IMG_3064.HEIC.jpg)
 
@@ -59,6 +59,7 @@ The honey got super thick! And was almost like caramel or hard candy. However it
 The goat curd had a very lemony taste from the lemons. My wife and I both made faces when we tried it, but I thought It was actually pretty good! The honey, however, was so thick that I could barely chew it! It hardened pretty quick and I could even hold it upside down without it coming out. However it was very sweet and was actually like candy. I really enjoyed it. 
 
 **Goat Curd**: 7/10
+
 **Date Honey**: 8.5/10
 
 ![Date Honey](/isaiah-images/IMG_3067.HEIC.jpg)
