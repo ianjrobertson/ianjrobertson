@@ -10,6 +10,7 @@ This semester I have been taking a class called Writings of Isaiah at BYU. For t
 For this project, I decided to take inspiration from the prophecy of the three sons in Isaiah 7. 
 
 > Isaiah 7:14-16
+>
 > 14 Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.
 > 15 Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
 > 16 For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
