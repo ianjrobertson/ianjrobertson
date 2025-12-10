@@ -1,5 +1,5 @@
 ---
-title: "Butter and Honey Shall He Eat 2025-12-09"
+title: "Butter and Honey Shall He Eat"
 date: "2025-12-10"
 excerpt: "Making traditional Hebrew goat cheese and date honey"
 ---
