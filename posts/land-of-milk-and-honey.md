@@ -26,29 +26,29 @@ Therefore for my project, I decided a way I could come to appreciate Isaiah and 
 
 I used goat milk I was able to purchase at Smiths. I was supposed to use full-fat, but all that was available was low-fat. The first step was to simmer the goat curd until it reached 80&deg;C. At this point I added 80ml of lemon juice and allowed the milk to curdle. It got slightly thicker at this point. 
 
-![Goat Milk](/isaiah-images/IMG_3054.HEIC.jpg)
+<img src="/isaiah-images/IMG_3054.HEIC.jpg" alt="Goat Milk" width="400" height="auto" />
 
-![Goat Milk](/isaiah-images/IMG_3055.HEIC.jpg)
+<img src="/isaiah-images/IMG_3055.HEIC.jpg" alt="Goat Milk" width="400" height="auto" />
 
-![Goat Milk](/isaiah-images/IMG_3056.HEIC.jpg)
+<img src="/isaiah-images/IMG_3056.HEIC.jpg" alt="Goat Milk" width="400" height="auto" />
 
 Next I poured the mixture through a layer of cheesecloth and allowed it to drain. I tied up the cheesecloth and hung it for about 2 hours. Actually not too bad! 
 
-![Goat Milk](/isaiah-images/IMG_3057.HEIC.jpg)
+<img src="/isaiah-images/IMG_3057.HEIC.jpg" alt="Goat Milk" width="400" height="auto" />
 
 
 ### Part 2: The Honey
 
 This is where things got interesting. I used a recipe to make the honey with dates. I first got a handful of dates and chopped them up into smaller pieces. Then I put the dates into a pan with water and allowed it to boil for a few minutes. Once the mixture was boiling, I turned down the heat and let it simmer for about 20-30 minutes until it got thicker. It's starting to smell really good!
 
-![Date Honey](/isaiah-images/IMG_3058.HEIC.jpg)
-![Date Honey](/isaiah-images/IMG_3059.HEIC.jpg)
+<img src="/isaiah-images/IMG_3058.HEIC.jpg" alt="Date Honey" width="400" height="auto" />
+<img src="/isaiah-images/IMG_3059.HEIC.jpg" alt="Date Honey" width="400" height="auto" />
 
 
 Once the mixture had gotten thick, I again got cheese cloth ready and poured the sauce through. (Who knew Isaiah used so much cheese cloth!). This time I squeezed the sack to get all of the syrup out. The dates were very hot at this point, so I had to use some oven mitts to handle it. After squeezing out all of the liquid I could, I put the liquid back onto the pan and let it simmer for another 15 minutes until it became thick like unto molasses. 
 
-![Date Honey](/isaiah-images/IMG_3063.HEIC.jpg)
-![Date Honey](/isaiah-images/IMG_3064.HEIC.jpg)
+<img src="/isaiah-images/IMG_3063.HEIC.jpg" alt="Date Honey" width="400" height="auto" />
+<img src="/isaiah-images/IMG_3064.HEIC.jpg" alt="Date Honey" width="400" height="auto" />
 
 
 The honey got super thick! And was almost like caramel or hard candy. However it tasted very good. 
@@ -62,7 +62,7 @@ The goat curd had a very lemony taste from the lemons. My wife and I both made f
 
 **Date Honey**: 8.5/10
 
-![Date Honey](/isaiah-images/IMG_3067.HEIC.jpg)
+<img src="/isaiah-images/IMG_3067.HEIC.jpg" alt="Date Honey" width="400" height="auto" />
 
 ### Conclusion
 
