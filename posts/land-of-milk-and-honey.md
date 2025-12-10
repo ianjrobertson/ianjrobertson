@@ -56,7 +56,14 @@ The honey got super thick! And was almost like caramel or hard candy. However it
 
 ### Part 3: Taste Test
 
-The goat curd had a very lemony taste from the lemons. My wife and I both made faces when we tried it, but I thought It was actually pretty good! The honey, however, was so thick that I could barely chew it! It hardened pretty quick and I could even hold it upside down without it coming out. However it was very sweet and was actually like candy. I really enjoyed it. 
+The goat curd had a very lemony taste from the lemons. My wife and I both made faces when we tried it, but I thought It was actually pretty good!
+
+<details>
+<summary>The honey, however, was so thick that I could barely chew it! It hardened pretty quick and I could even hold it upside down without it coming out!</summary>
+<img src="/isaiah-images/dq-oreo.webp" alt="Dairy Queen Blizzard" width="400" height="auto" />
+</details> 
+
+However it was very sweet and was actually like candy. I really enjoyed it.
 
 **Goat Curd**: 7/10
 
