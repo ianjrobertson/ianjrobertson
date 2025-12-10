@@ -17,14 +17,18 @@ For this project, I decided to take inspiration from the prophecy of the three s
 > 16 For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
 
 
-Part of the description of Immanuel is that he will eat Butter and Honey. The footnote for verse 15 says, "Curd and honey—the only foods available to the poor at times." Curd here is interpreted as a kind of cheese like goat curd. 
+Part of the description of Immanuel is that he will eat Butter and Honey. The footnote for verse 15 says, "Curd and honey—the only foods available to the poor at times." Curd here is interpreted as a kind of cheese like goat curd. Isaiah is prophesying about three sons that he will name. Immanuel means God among us, and alludes to the idea of God remaining with Israel despite hardship or affliction. 
+
+I think the idea of butter and honey refers to the humble disposition of the son. Because they come from humble circumstances and are fed with butter and honey, it implies they are removed from the pride and vices of the world, and will "refuse the evil, to choose the good." 
+
+Additionally, this verse has messianic interpretations, and I connect it with another prophecy in Isaiah 53: "he hath no form nor comeliness; and when we shall see him, there is no beauty that we should desire him." I think the idea of Immanuel eating butter and honey also is connected to the savior coming from humble and poor circumstances. 
 
 Therefore for my project, I decided a way I could come to appreciate Isaiah and his prophecies was to experience what they meant more literally by making goat curd and honey! I selected two recipes for [goat curd](https://downloads.bbc.co.uk/berkshire/pdf/goats.curd.pdf) and [date honey](https://forward.com/food/recipes/330691/homemade-date-honey-a-sweet-sticky-take-on-one-of-the-7-species/).
 
 
 ### Part 1: The Goat Curd 
 
-I used goat milk I was able to purchase at Smiths. I was supposed to use full-fat, but all that was available was low-fat. The first step was to simmer the goat curd until it reached 80&deg;C. At this point I added 80ml of lemon juice and allowed the milk to curdle. It got slightly thicker at this point. 
+I used goat milk I was able to purchase at Smiths. I was supposed to use full-fat, but all that was available was low-fat. The first step was to simmer the goat milk until it reached 80&deg;C. At this point I added 80ml of lemon juice and allowed the milk to curdle. It got slightly thicker at this point. 
 
 <img src="/isaiah-images/IMG_3054.HEIC.jpg" alt="Goat Milk" width="400" height="auto" />
 
@@ -45,18 +49,18 @@ This is where things got interesting. I used a recipe to make the honey with dat
 <img src="/isaiah-images/IMG_3059.HEIC.jpg" alt="Date Honey" width="400" height="auto" />
 
 
-Once the mixture had gotten thick, I again got cheese cloth ready and poured the sauce through. (Who knew Isaiah used so much cheese cloth!). This time I squeezed the sack to get all of the syrup out. The dates were very hot at this point, so I had to use some oven mitts to handle it. After squeezing out all of the liquid I could, I put the liquid back onto the pan and let it simmer for another 15 minutes until it became thick like unto molasses. 
+Once the mixture had gotten thick, I again got cheesecloth ready and poured the sauce through. (Who knew Isaiah used so much cheesecloth!). This time I squeezed the sack to get all of the syrup out. The dates were very hot at this point, so I had to use some oven mitts to handle it. After squeezing out all of the liquid I could, I put the liquid back onto the pan and let it simmer for another 15 minutes until it became thick like unto molasses. 
 
 <img src="/isaiah-images/IMG_3063.HEIC.jpg" alt="Date Honey" width="400" height="auto" />
 <img src="/isaiah-images/IMG_3064.HEIC.jpg" alt="Date Honey" width="400" height="auto" />
 
 
-The honey got super thick! And was almost like caramel or hard candy. However it tasted very good. 
+The honey got super thick and was almost like caramel or hard candy. However it tasted very good. 
 
 
 ### Part 3: Taste Test
 
-The goat curd had a very lemony taste from the lemons. My wife and I both made faces when we tried it, but I thought It was actually pretty good!
+The goat curd had a very lemony taste from the lemons. My wife and I both made faces when we tried it, but I thought it was actually pretty good!
 
 <details>
 <summary>The honey, however, was so thick that I could barely chew it! It hardened pretty quick and I could even hold it upside down without it coming out!</summary>
@@ -73,4 +77,8 @@ However it was very sweet and was actually like candy. I really enjoyed it.
 
 ### Conclusion
 
-This was a fun experience. I had never tried making either goat curd or honey before and It was easier than I was expecting. 
+This was a fun experience. I had never tried making either goat curd or honey before and it was easier than I was expecting.
+
+I would love to try making more cheese in the future.
+
+I'm grateful that I've been able to learn about Isaiah and his prophecies this semester, and my appreciation for ancient Israel has increased!
