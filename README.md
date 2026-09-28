@@ -1,13 +1,15 @@
-# Hey there! I'm Ian 👋  
+# Hello! I'm Ian
 
-I studied Computer Science at **Brigham Young University** and minored in Mathematics.
+I'm a Software Engineer at Mastercard, currently working on Cybersecurity products with Recorded Future and Risk Recon. 
 
-I'm an incoming SWE at Mastercard.
+I Studied Computer Science at BYU and minored in Mathematics. 
+
+In my free time I enjoy weight lifting, basketball, reading, playing guitar, and learning new things.
 
 ### 🔭 Current Interests
 - Real-Time Communication (RTC) & WebSockets  
-- Full-Stack Software Engineering
 - Learning Rust, Elixir, and TypeScript
+- E-Paper and embedded programming
 
 ### 🚀 Projects & Portfolio
 Check out what I’ve been working on:  
