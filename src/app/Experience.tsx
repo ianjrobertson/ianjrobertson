@@ -11,14 +11,24 @@ interface ExperienceItem {
 export default function Experience() {
   const experience: ExperienceItem[] = [
     {
-      role: "Incoming SWE",
+      role: "Software Engineer",
       company: "Mastercard",
       duration: "August 2026",
     },
     {
+      role: "Software Engineer",
+      company: "Refactored Labs",
+      duration: "January 2026 - August 2026",
+    },
+    {
+      role: "Teaching Assistant: CS 340 Software Design Principles",
+      company: "BYU Computer Science",
+      duration: "January 2026 - August 2026",
+    },
+    {
       role: "Full-Stack Engineer",
       company: "Blazzi",
-      duration: "July 2025 - Present",
+      duration: "July 2025 - January 2026",
     },
     {
       role: "Web Developer",
@@ -49,9 +59,6 @@ export default function Experience() {
       <h2 className="text-2xl font-semibold my-4">Education</h2>
       <div className="mb-4">
         <h3 className="font-medium">Brigham Young University</h3>
-        <p className="text-sm text-muted-foreground">
-          <span className="italic">Expected Graduation:</span> April 2026
-        </p>
         <p className="text-sm">
           Computer Science <span className="italic">(BS)</span> / Mathematics{" "}
           <span className="italic">(Minor)</span>

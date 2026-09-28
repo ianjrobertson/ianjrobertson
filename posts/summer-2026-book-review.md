@@ -1,6 +1,6 @@
 ---
 title: "2026 Book Review -- So Far"
-date: "2026-07-01"
+date: "2026-09-27"
 excerpt: "My thoughts from the books I've read this summer"
 ---
 
@@ -73,6 +73,6 @@ This was my first time reading a business or strategy book and I really enjoyed 
 
 -- 
 
-Thanks for Reading! 
+Thanks for Reading! The next books I'm readng are Thinking Fast and Slow by David Kahneman, and the Road by Cormac McCarthy. 
 
 All writing is my own. I used Claude for spellcheck.
