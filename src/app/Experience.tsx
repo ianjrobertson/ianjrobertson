@@ -21,11 +21,6 @@ export default function Experience() {
       duration: "January 2026 - August 2026",
     },
     {
-      role: "Teaching Assistant: CS 340 Software Design Principles",
-      company: "BYU Computer Science",
-      duration: "January 2026 - August 2026",
-    },
-    {
       role: "Full-Stack Engineer",
       company: "Blazzi",
       duration: "July 2025 - January 2026",
@@ -34,11 +29,6 @@ export default function Experience() {
       role: "Web Developer",
       company: "BYU Center for Teaching and Learning",
       duration: "August 2024 - August 2025",
-    },
-    {
-      role: "Quality Assurance Analyst",
-      company: "BYU Center for Teaching and Learning",
-      duration: "May 2024 - August 2024",
     },
   ];
 
